@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{1DD9453B-D7CB-4FB2-9EF1-5D06385DE4CE}</ProjectGuid>
+    <ProjectGuid>{562C2C05-7849-4E19-BD08-37BC3FFCC4F7}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>CurrentDateAndTimeCopy</RootNamespace>
-    <AssemblyName>CurrentDateAndTimeCopy</AssemblyName>
+    <RootNamespace>PrintMyName</RootNamespace>
+    <AssemblyName>PrintMyName</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
